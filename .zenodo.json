@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Vuillermet 2012 \"A Grammar of Ese Ejja, a Takanan language of the Bolivian Amazon\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Vuillermet, Marine. 2012. A Grammar of Ese Ejja, a Takanan language of the Bolivian Amazon. Universit\u00e9 Lumi\u00e8re Lyon 2 dissertation. (xvi+736pp.)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
