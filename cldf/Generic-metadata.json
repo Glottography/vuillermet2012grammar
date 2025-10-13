@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/vuillermet2012grammar",
             "rdf:type": "prov:Entity",
-            "dc:created": "823ede7",
+            "dc:created": "134a0a6",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -96,7 +96,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 37,
+            "dc:extent": 41,
             "tableSchema": {
                 "columns": [
                     {

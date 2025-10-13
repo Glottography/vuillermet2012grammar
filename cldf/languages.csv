@@ -1,4 +1,8 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+amer1254,Latin American Spanish,,,,amer1254,,1,dialect,Indo-European,dialects
+boli1265,Bolivian Spanish,,,,boli1265,,1,dialect,Indo-European,dialects
+chim1313,Chimané,,-15.214,-66.6431,chim1313,,12,dialect,Mosetén-Chimané,dialects
+paic1240,Paiconeca,,-15.0,-60.5,paic1240,,26,dialect,Arawakan,dialects
 arao1248,Araona,,-12.4242,-67.7293,arao1248,,2 3,language,Pano-Tacanan,languages
 ayor1240,Ayoreo,,-19.220055,-60.217495,ayor1240,,5,language,Zamucoan,languages
 baur1253,Baure,,-13.61,-63.68,baur1253,,6 26,language,Arawakan,languages
