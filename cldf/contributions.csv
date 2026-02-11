@@ -2,41 +2,36 @@ ID,Name,Description,Contributor,Citation,Glottocode,Year,Source,Media_IDs,Type,M
 map_8,Carte 8,Localisation approximative des groupes ethnolinguistiques de Bolivie - Source: Ministère des Affaires Paysannes et des Peuples Indigènes Originaires (MACPIO),,,,,vuillermet2012grammar,,map,
 map_9,Carte 9,"Localisation approximative des langues takana de Bolivia et du Pérou, adaptée de Grinevald & Bert (2010 : 504)",,,,,vuillermet2012grammar,,map,
 1,Afroboliviano,,,,boli1265,2012,vuillermet2012grammar,features,feature,map_8
-2,Araona,,,,arao1248,2012,vuillermet2012grammar,features,feature,map_8
-3,Araona,,,,arao1248,2012,vuillermet2012grammar,features,feature,map_9
-4,Aymara,,,,,2012,vuillermet2012grammar,features,feature,map_8
-5,Ayoreo,,,,ayor1240,2012,vuillermet2012grammar,features,feature,map_8
-6,Baure,,,,baur1253,2012,vuillermet2012grammar,features,feature,map_8
-7,Canichana,,,,cani1243,2012,vuillermet2012grammar,features,feature,map_8
-8,Cavineña,,,,cavi1250,2012,vuillermet2012grammar,features,feature,map_8
-9,Cavineña,,,,cavi1250,2012,vuillermet2012grammar,features,feature,map_9
-10,Cayubaba,,,,cayu1262,2012,vuillermet2012grammar,features,feature,map_8
-11,Chacobo,,,,chac1251,2012,vuillermet2012grammar,features,feature,map_8
-12,Chimani,,,,chim1313,2012,vuillermet2012grammar,features,feature,map_8
-13,Chiquitano,,,,chiq1253,2012,vuillermet2012grammar,features,feature,map_8
-14,Ese Ejja,,,,esee1248,2012,vuillermet2012grammar,features,feature,map_8
-15,Ese Ejja,,,,esee1248,2012,vuillermet2012grammar,features,feature,map_9
-16,Guarani,,,,east2555,2012,vuillermet2012grammar,features,feature,map_8
-17,Guarayo,,,,guar1292,2012,vuillermet2012grammar,features,feature,map_8
-18,Joaquiniano,,,,cani1243,2012,vuillermet2012grammar,features,feature,map_8
-19,Leco,,,,leco1242,2012,vuillermet2012grammar,features,feature,map_8
-20,Machineri,,,,mach1268,2012,vuillermet2012grammar,features,feature,map_8
-21,Moré,,,,more1263,2012,vuillermet2012grammar,features,feature,map_8
-22,Mosetén,,,,mose1249,2012,vuillermet2012grammar,features,feature,map_8
-23,Movima,,,,movi1243,2012,vuillermet2012grammar,features,feature,map_8
-24,Moxeño,,,,moxo1234,2012,vuillermet2012grammar,features,feature,map_8
-25,Pacahuara,,,,paca1246,2012,vuillermet2012grammar,features,feature,map_8
-26,Paiconeca,,,,paic1240,2012,vuillermet2012grammar,features,feature,map_8
-27,Quechua,,,,sout2991,2012,vuillermet2012grammar,features,feature,map_8
-28,Reyesano,,,,reye1240,2012,vuillermet2012grammar,features,feature,map_8
-29,Reyesano,,,,reye1240,2012,vuillermet2012grammar,features,feature,map_9
-30,Sirionó,,,,siri1273,2012,vuillermet2012grammar,features,feature,map_8
-31,Tacana,,,,taca1256,2012,vuillermet2012grammar,features,feature,map_8
-32,Tacana,,,,taca1256,2012,vuillermet2012grammar,features,feature,map_9
-33,Tapiete,,,,tapi1253,2012,vuillermet2012grammar,features,feature,map_8
-34,Tonalla,,,,iton1250,2012,vuillermet2012grammar,features,feature,map_8
-35,Uru,,,,uruu1244,2012,vuillermet2012grammar,features,feature,map_8
-36,Weenhayek,,,,wich1262,2012,vuillermet2012grammar,features,feature,map_8
-37,Yaminanua,,,,yami1256,2012,vuillermet2012grammar,features,feature,map_8
-38,Yuqui,,,,yuqu1240,2012,vuillermet2012grammar,features,feature,map_8
-39,Yuracaré,,,,yura1255,2012,vuillermet2012grammar,features,feature,map_8
+2,Araona,,,,arao1248,2012,vuillermet2012grammar,features,feature,map_8 map_9
+3,Aymara,,,,,2012,vuillermet2012grammar,features,feature,map_8
+4,Ayoreo,,,,ayor1240,2012,vuillermet2012grammar,features,feature,map_8
+5,Baure,,,,baur1253,2012,vuillermet2012grammar,features,feature,map_8
+6,Canichana,,,,cani1243,2012,vuillermet2012grammar,features,feature,map_8
+7,Cavineña,,,,cavi1250,2012,vuillermet2012grammar,features,feature,map_8 map_9
+8,Cayubaba,,,,cayu1262,2012,vuillermet2012grammar,features,feature,map_8
+9,Chacobo,,,,chac1251,2012,vuillermet2012grammar,features,feature,map_8
+10,Chimani,,,,chim1313,2012,vuillermet2012grammar,features,feature,map_8
+11,Chiquitano,,,,chiq1253,2012,vuillermet2012grammar,features,feature,map_8
+12,Ese Ejja,,,,esee1248,2012,vuillermet2012grammar,features,feature,map_8 map_9
+13,Guarani,,,,east2555,2012,vuillermet2012grammar,features,feature,map_8
+14,Guarayo,,,,guar1292,2012,vuillermet2012grammar,features,feature,map_8
+15,Joaquiniano,,,,cani1243,2012,vuillermet2012grammar,features,feature,map_8
+16,Leco,,,,leco1242,2012,vuillermet2012grammar,features,feature,map_8
+17,Machineri,,,,mach1268,2012,vuillermet2012grammar,features,feature,map_8
+18,Moré,,,,more1263,2012,vuillermet2012grammar,features,feature,map_8
+19,Mosetén,,,,mose1249,2012,vuillermet2012grammar,features,feature,map_8
+20,Movima,,,,movi1243,2012,vuillermet2012grammar,features,feature,map_8
+21,Moxeño,,,,moxo1234,2012,vuillermet2012grammar,features,feature,map_8
+22,Pacahuara,,,,paca1246,2012,vuillermet2012grammar,features,feature,map_8
+23,Paiconeca,,,,paic1240,2012,vuillermet2012grammar,features,feature,map_8
+24,Quechua,,,,sout2991,2012,vuillermet2012grammar,features,feature,map_8
+25,Reyesano,,,,reye1240,2012,vuillermet2012grammar,features,feature,map_8 map_9
+26,Sirionó,,,,siri1273,2012,vuillermet2012grammar,features,feature,map_8
+27,Tacana,,,,taca1256,2012,vuillermet2012grammar,features,feature,map_8 map_9
+28,Tapiete,,,,tapi1253,2012,vuillermet2012grammar,features,feature,map_8
+29,Tonalla,,,,iton1250,2012,vuillermet2012grammar,features,feature,map_8
+30,Uru,,,,uruu1244,2012,vuillermet2012grammar,features,feature,map_8
+31,Weenhayek,,,,wich1262,2012,vuillermet2012grammar,features,feature,map_8
+32,Yaminanua,,,,yami1256,2012,vuillermet2012grammar,features,feature,map_8
+33,Yuqui,,,,yuqu1240,2012,vuillermet2012grammar,features,feature,map_8
+34,Yuracaré,,,,yura1255,2012,vuillermet2012grammar,features,feature,map_8
