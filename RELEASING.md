@@ -61,3 +61,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | yami1256 | 2.32 | False | 1 |
 | yuqu1240 | 0.00 | True | 2 |
 | yura1255 | 0.27 | False | 1 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_vuillermet2012grammar.py vX.Y
+```
+and follow the instructions given in the output of the command.
